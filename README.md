@@ -13,7 +13,7 @@ This is a sample of a Java Spring app that works with Tilt and the Tanzu Applica
 Start the app deployment by running:
 
 ```
-tilt up
+tilt up wtf
 ```
 
 You can hit the spacebar to open the UI in a browser. 
